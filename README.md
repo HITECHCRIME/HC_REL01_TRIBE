@@ -1,10 +1,10 @@
 ![](mothnode_tribe.png)
 
-# HITECH CRIME UNIVERSE SINGLE RELEASE 01_ TRIBE
-
-This acts as a "pilot episode".
+# HITECH CRIME UNIVERSE - "TRIBE" / SINGLE AV RELEASE
 
 **Enter the Universe now:** https://www.hitechcri.me/timeline/hc_sg_r01_tribe
+
+HC_SG_R01_TRIBE acts as a "pilot episode".
 
 ## PROJECT DATA
 
