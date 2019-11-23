@@ -159,7 +159,7 @@ My tribe uses doubt and fear to conquer all
 
 Sorted by release time.
 
-Leading Up Content (Dopamine Hook)
+**Leading Up Content (Dopamine Hook)**
 
 - YouTube: MT_01 / Mystery Teaser 01 (twitter) part 1/2 -> go through socials to piece the message together
 - YouTube: MT_02 / Mystery Teaser 02 (fb) part 2/2 -> go through socials to piece the message together
@@ -167,7 +167,7 @@ Leading Up Content (Dopamine Hook)
 
 - "end of the material has ENTER THE UNIVERSE"
 
-Main Audiovisual Release
+**Main Audiovisual Release**
 
 - YouTube: HC_NSF25_Tribe / 'TRIBE' Cinematic Narrative Short Film set in the Hitech Crime Universe (the main narrative)
 - YouTube: HC_SG152_Tribe / MOTHNODE_ Tribe | Cinematic Music Video / think about making it a VR/360 recorded video to be experienced in multiple ways.
@@ -184,13 +184,31 @@ Include websites like LOST did, but to have things that happen on the real inter
 
 **Release - actual commercial content for monetization/sale**
 
-- PAID: Physical Single Release includes all the elements of the narrative (For Order + Limited Introductory Price Offer +  Goodies from the storyworld + Merch)
+- PAID: Subscription to the whole universe (free access to everything) via hitechcri.me website
+- PAID: Physical Single Release includes all the elements of the narrative (For Order + Limited Introductory Price Offer +  Goodies from the storyworld + Merch) via hitechcri.me website
 - PAID: Digital Single Release (+ Goodies from the storyworld + Merch) via hitechcri.me website
 - FREE: Hitech Crime Universe Timeline https://www.hitechcri.me/timeline/hc_sg_r01_tribe (link not active)
+It’s important to have one platform where you control your music, content and brand image—your website. If a promoter or fan is searching for you online, the first hit they should get is your band website. This is your chance to hook them with a great first impression and win them over with an amazing user experience. Blow your own trumpet!
+
 - FREE (monetized): Streaming Access: Spotify
 - FREE (monetized): Streaming Access: Soundcloud https://soundcloud.com/mothnode/tribe
-- FREE (monetized): Streaming Access: Apple Music
+- FREE (monetized): Streaming Access: Apple Music/iTunes
 - FREE (monetized): Streaming Access: YouTube Music
+- FREE (monetized): Streaming Access: Audiomack
+- FREE (monetized): Streaming Access: Tidal
+- PAID/FREE (monetized/Digital Sale): Streaming Access: Bandcamp
+- FREE: Vimeo
+- PAID/FREE: Google Play
+- FREE: Reddit Music
+- FREE: Music-related hashtags on @TwitterMusic
+- FREE: Music-related hashtags on Instagram (not via main channel perhaps? so it doesn't clash with the 9post storyworld release)
+- FREE: Spike on Last.fm
+- FREE: Songkick (for live events)
+- FREE: Bandsintown (for live events)
+- FREE: Blogs as entry point (review or entry point designed with the blog to initiate people into the universe)
+(Pitchfork, Stereogum, DatPiff and The A.V. Club)
+- FREE: Music with Dozmia
+
 - FREE: Insta 9grid/9post dopamine hook
 
 1.
