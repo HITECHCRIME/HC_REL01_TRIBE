@@ -223,14 +223,13 @@ It’s important to have one platform where you control your music, content and 
 5. Video: Music Video Teaser + Caption
 6. Photo Carouselle (that swipes as one long image): Call to engage in the storyworld/ + Caption
 input the sketch here
-
-7. 
+7. Video Post: trailer for the cinematic narrative short film "TRIBE"
 8. Visual Atmospheric Still Image with Quote, make them interact with their phone 
 9. Video Carousele: Glitchy Cinemgraphs of the Characters
 (alternatively mix Video and Photo carousels to make a reveal of characters)
 
 - FREE: IGTV uploads to @hitechcrime
-- FREE: Instagram Stories
+- FREE: Instagram Stories (Instructions with a screenshot of the Instagram profile, watch the trailer for the cinematic narrative short film)
 - FREE: Facebook Stories
 
 - FREE (monetized via subs): Mixer Lead - Livestream Announcement Dopamine Hook (adds to mystery aspect)
