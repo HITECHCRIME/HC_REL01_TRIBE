@@ -157,7 +157,7 @@ My tribe uses doubt and fear to conquer all
 
 **CONTENT CLOUD** - associated types of content related to the release - see more examples below.
 
-Sorted by release time.
+Entry points for the storyworld and the release. Sorted by release time.
 
 **Leading Up Content (Dopamine Hook)**
 
@@ -194,8 +194,11 @@ It’s important to have one platform where you control your music, content and 
 - FREE (monetized): Streaming Access: Soundcloud https://soundcloud.com/mothnode/tribe
 - FREE (monetized): Streaming Access: Apple Music/iTunes
 - FREE (monetized): Streaming Access: YouTube Music
+- FREE (monetized): Streaming Access: Amazon Music
 - FREE (monetized): Streaming Access: Audiomack
 - FREE (monetized): Streaming Access: Tidal
+- FREE (monetized): Streaming Access: Pandora Radio
+- FREE (monetized): Streaming Access: Slacker Radio
 - PAID/FREE (monetized/Digital Sale): Streaming Access: Bandcamp
 - FREE: Vimeo
 - PAID/FREE: Google Play
