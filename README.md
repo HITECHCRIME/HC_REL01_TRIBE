@@ -25,8 +25,76 @@ This is going to be one song single + surrounding material.
 **Main Narrative**
 Story based on lyrics of the single release.
 
+```
+hitech crime (electronic voice, glitch, GLADOS style but with darkness)
+*whistling wind, some electronic noises of the street, like buzzing electricity from neons*
 
+"learned a lesson, your turn"
 
+HOOK (coming up)
+
+With gold come knots tied on tight klout calls
+For blood, sacrifice darkness to the rap gods
+My tribe uses doubt and fear to conquer flaws 
+
+CHORUS (drop)
+
+With gold come knots tied on tight klout calls
+For blood, sacrifice darkness to the rap gods
+My tribe uses doubt and fear to conquer flaws 
+
+INTERMISSION
+
+Wounds
+Reversed the costs at the speed of flow
+aye
+
+CHORUS
+
+With gold come knots tied on tight klout calls
+For blood, sacrifice darkness to the rap gods
+My tribe uses doubt and fear to conquer flaws 
+
+INTERMISSION
+
+Fear(?) in the eyes of the public
+When I drop the bombs with...
+
+CHORUS (lower chilled scream)
+
+With gold come knots tied on tight klout calls
+For blood, sacrifice darkness to the rap gods
+My tribe uses doubt and fear to conquer flaws 
+
+VERSE
+
+Landlines filled with blots
+I slide off,  what everybody does,
+
+....
+
+anybody knows 
+that I tend to search for costs
+usually chunks of soul
+
+CHORUS
+
+With gold come knots tied on tight klout calls
+For blood, sacrifice darkness to the rap gods
+My tribe uses doubt and fear to conquer flaws 
+
+blargh
+
+OUTRO
+
+*electric explosion - overloaded street generator with sparks hiting the pavement ;p not sure just yet, everything can be changed to fit a mutual vision*
+
+///
+
+With gold so thoughts bring the light from souls
+For blood, sacrifice darkness to the rap gods
+My tribe uses doubt and fear to conquer all 
+```
 
 Sorted by release time. There are MAIN NODES/ALBUM RELEASES - unlock node by sharing with humans, TIMELINES - arcs of releases, CONTENT CLOUD - associated types of content related to the release - see more examples below.
 
