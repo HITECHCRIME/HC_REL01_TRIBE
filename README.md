@@ -47,7 +47,7 @@ klout calls
 ```
 for blood
 ```
-- own blood turns against blood of the tribe, people start making problems blinded with the prospect of benefits, betrayal, disappointment, mystery, violent delights, loyalty theme
+- own blood turns against blood of the tribe, people start making problems blinded with the prospect of benefits, betrayal, disappointment, mystery, violent delights, loyalty theme, wealth acquired disappears, blame is being assigned to the girl protagonist (seemingly for a reason, evidence is undeniable).
 - death of a tribe member, girl protagonist the main character loves but at first doesn't realize she helped to conspire against him and the tribe to achieve benefits at cost of the others. she dies, he feels grief but discovers a clue that leads to discovery that she was having doubts about what is going on (their plan? someone external? nemesis of the story?) this and was being coerced into doing this along with the male protagonist. this begins the arc of revenge. 
 
 Different perspective of the same story revealed through different platform (perspective of the girl):
