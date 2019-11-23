@@ -171,18 +171,18 @@ Entry points for the storyworld and the release. Sorted by release time.
 
 **Main Audiovisual Release**
 
-- YouTube: HC_NSF25_Tribe / 'TRIBE' Cinematic Narrative Short Film set in the Hitech Crime Universe (the main narrative)
-- YouTube: HC_SG152_Tribe / MOTHNODE_ Tribe | Cinematic Music Video / think about making it a VR/360 recorded video to be experienced in multiple ways.
+- FREE: YouTube: HC_NSF25_Tribe / 'TRIBE' Cinematic Narrative Short Film set in the Hitech Crime Universe (the main narrative)
+- FREE: YouTube: HC_SG152_Tribe / MOTHNODE_ Tribe | Cinematic Music Video / think about making it a VR/360 recorded video to be experienced in multiple ways.
 Utilizes the scenes from the narrative short film but from a different perspective - we move among the slow-motion scenes with MOTHNODE culminating at the point where the street generator blows up and the girl dies. It acts as a final commentary on the events in the short story.
-- YouTube: ?
+- FREE: YouTube: ?
 
 Include websites like LOST did, but to have things that happen on the real internet affect what happens in the narrative universe - posts and events pop up in the narrative. A fictional project that interacts with the real audience in the story. One way medium no more. Things audience does online affects the storylines. Register various domains for fictional places and concepts.
 
-- Fake Ad from the storyworld "Claim what's yours"
-- Fake Ad from the storyworld "Photon Tattoo Parlour"
-- Fake Ad from the storyworld "Future is here"
-- Fake Website from the story: tribe's headquarters website with all sorts of info about the memebers and locations, plan details, expanding the depth of the setting
-- Fake Website: photon tattoo parlour cyberspace access
+- FREE: Fake Ad from the storyworld "Claim what's yours"
+- FREE: Fake Ad from the storyworld "Photon Tattoo Parlour"
+- FREE: Fake Ad from the storyworld "Future is here"
+- FREE: Fake Website from the story: tribe's headquarters website with all sorts of info about the memebers and locations, plan details, expanding the depth of the setting
+- FREE/PAID: Fake Website: photon tattoo parlour cyberspace access where you can get temporary tattoos with the tribe sign
 
 **Release - actual commercial content for monetization/sale**
 
