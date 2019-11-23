@@ -172,7 +172,7 @@ Release - actual commercial content for monetization
 - Physical Single Release (For Order + Limited Introductory Price Offer)
 - Digital Single Release (+ Goodies)
 - Streaming Access: Spotify
-- Streaming Access: Soundcloud
+- Streaming Access: Soundcloud https://soundcloud.com/mothnode/tribe
 - Streaming Access: Apple Music
 - Streaming Access: YouTube Music
 
