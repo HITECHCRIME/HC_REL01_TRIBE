@@ -32,7 +32,7 @@ This is going to be one song single + surrounding material.
 **Main Narrative**
 Story based on lyrics of the single album release.
 
-Futura tribe. Street Futura Aggrotrap.
+Futura tribe. Street Futura Aggrotrap. Simulating how the future trap music will sound?
 
 ```
 "With gold come knots tied on tight klout calls
