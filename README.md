@@ -32,6 +32,8 @@ This is going to be one song single + surrounding material.
 **Main Narrative**
 Story based on lyrics of the single album release.
 
+Futura tribe. Street Futura Aggrotrap.
+
 ```
 "With gold come knots tied on tight klout calls
 For blood, sacrifice darkness to the rap gods
@@ -246,7 +248,12 @@ input the sketch here
 ```
 /// NETWORK ERROR_ (glitched text message from the Hitech Crime future)
 ```
-- PAID ENTRY POINT: Actual Physical Concert with hitech vibe (lasers, atmosphere, we transform the venue into a place from the short story) that has another set of clues for the audience to decypher.
+- PAID ENTRY POINT: Actual Physical Concert with hitech vibe (lasers, atmosphere, we transform the venue into a place from the short film or generally immerse people into the storyworld theme) that has another set of clues for the audience to decypher.
+- FREE ENTRY POINT: Website - Agent Experience Logs_ outlet for fans who take part in the universe. One of the ways to influence the storyworld itself and input suggestions for changes to the timeline - taking their narrative input and incorporating it into the storyworld.
+- FREE ENTRY POINT: Alexa Narrative Experience (voice narrative, old radio shows)
+- FREE ENTRY POINT: TikTok -> clues for puzzles for the audience (cryptic account)
+- FREE ENTRY POINT: YouTube/Website (fullscreen experience) - interactive (play your own adventure) short web series narrative
+- FREE ENTRY POINT: YouTube/Website - interactive (play your own adventure VR/360 experience) short web series narrative
 x
 x
 x
@@ -269,20 +276,12 @@ x
 - game/VR render/experience
 - real world guerilla reality hacking (also livestreamed)
 - real world guerilla effect, experience the exposition -> universe content, photos, videos, character shots
-- Agent Experience Logs_ outlet for fans who take part in the universe
-
-- Alexa Narrative Experience (voice narrative, old radio shows)
-- TikTok -> clues for puzzles for the audience (cryptic account)
-
 - PRINT MATERIALS Books & magazines Flyers Posters Postcards Stickers Comic books
 - DIGITAL CONTENT eBooks Website content Fan fiction Podcasts Video Video games
 - DIRECT COMMUNICATIONS Text messages Chat or instant messages Email
 - SOCIAL MEDIA Twitter Facebook Instagram Tumblr YouTube Fan sites and forums
 - EXPERIENTIAL MEDIA Theater Concerts Exhibitions Live Installations Theme Parks Toys
 
-
- Futura tribe. Street Futura Aggrotrap
-(Target: YouTube, Mixer Livestream Premiere, IGTV, Instagram 9pos
 ### Music Video
 
 ## Notes
