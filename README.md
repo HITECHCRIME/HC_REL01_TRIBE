@@ -12,7 +12,7 @@ This is going to be one song single + surrounding material.
 
 **Release Title:** Tribe / **Featuring:** MOTHNODE
 
-**Release Type:** Single
+**Release Type:** Single / **Single Song Repo:** https://github.com/HITECHCRIME/HC_SG152_Tribe
 
 **Production:**  / **Lyrics:** MOTHNODE
 
