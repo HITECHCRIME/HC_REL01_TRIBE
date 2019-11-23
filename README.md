@@ -50,6 +50,11 @@ klout calls
 for blood
 ```
 - own blood turns against blood of the tribe, people start making problems blinded with the prospect of benefits, betrayal, disappointment, mystery, violent delights, loyalty theme
+- death of a tribe member, girl protagonist the main character loved but didn't know she conspired against him and the tribe to achieve benefits at cost of the others. she dies, he feels grief but discovers a clue that leads to discovery that she was having doubts about this and was being coerced into doing this. this begins the arc of revenge. 
+
+Different perspective of the same story revealed through different platform (perspective of the girl):
+- it in fact was the protagonist who wanted to steal the stash, she was controlled remotely with an implant and didn't know (blackouts), main character kills the girl he loved.
+- Video short/animated as a part of the instagram release 9post: sensory scene - the dying girl, what she feels and hears in the audio comms as she is dying. blue light from the street neons shines on her face. she thinks "what did i do to deserve this?" not knowing it was her who instigated the incident "what's going on?" as she wakes up from a blackout.
 
 ```
 sacrifice darkness to the rap gods
