@@ -2,6 +2,8 @@
 
 # HITECH CRIME UNIVERSE SINGLE RELEASE 01_ TRIBE
 
+This acts as a "pilot episode".
+
 **Enter the Universe now:** https://www.hitechcri.me/timeline/hc_sg_r01_tribe
 
 ## PROJECT DATA
@@ -24,6 +26,19 @@ This is going to be one song single + surrounding material.
 
 **Main Narrative**
 Story based on lyrics of the single release.
+
+"With gold"
+- a job that gave the tribe a money stash
+
+"come knots tied on tight"
+- having wealth always backfires / consumptionism / capitalism
+
+"klout calls"
+- it makes people and their friends change usually for the worse if you don't know how to apply the power of wealth
+
+"for blood"
+- 
+
 
 ```
 hitech crime (electronic voice, glitch, GLADOS style but with darkness)
