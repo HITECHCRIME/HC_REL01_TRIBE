@@ -1,8 +1,8 @@
 [cover] ![](57175019_319474918741616_8502199518755923887_n.jpg)
 
-# HITECH CRIME UNIVERSE RELEASE 01_ TRIBE
+# HITECH CRIME UNIVERSE SINGLE RELEASE 01_ TRIBE
 
-**Listen now:** 
+**Enter the Universe now:** https://www.hitechcri.me/timeline/hc_sg_r01_tribe
 
 ## PROJECT DATA
 
