@@ -21,6 +21,13 @@ This is going to be one song single + surrounding material.
 **Writing:** Tim Moth
 
 ## CONTENT CLOUD
+
+**Main Narrative**
+Story based on lyrics of the single release.
+
+
+
+
 Sorted by release time. There are MAIN NODES/ALBUM RELEASES - unlock node by sharing with humans, TIMELINES - arcs of releases, CONTENT CLOUD - associated types of content related to the release - see more examples below.
 
 Leading Up Content (Dopamine Hook)
@@ -42,8 +49,13 @@ Include websites like LOST did, but to have things that happen on the real inter
 - Fake Ad from the storyworld "x"
 - Fake Ad from the storyworld "x"
 
+Register various domains for fictional places and concepts.
+
 - Fake Website from the story:
-- Fake Website:
+- Fake Website: 
+
+Release - actual commercial content for monetization
+
 - Physical Single Release (For Order + Limited Introductory Price Offer)
 - Digital Single Release (+ Goodies)
 - Streaming Access: Spotify
