@@ -221,10 +221,13 @@ It’s important to have one platform where you control your music, content and 
 3. Visual Atmospheric Still Image
 4. Visual Atmospheric Snippet from the storyworld
 5. Video: Music Video Teaser + Caption
-6. Photo Carouselle: X + Caption
+6. Photo Carouselle (that swipes as one long image): Call to engage in the storyworld/ + Caption
+input the sketch here
+
 7. 
-8.
+8. Visual Atmospheric Still Image with Quote, make them interact with their phone 
 9. Video Carousele: Glitchy Cinemgraphs of the Characters
+(alternatively mix Video and Photo carousels to make a reveal of characters)
 
 - FREE: IGTV uploads to @hitechcrime
 - FREE: Instagram Stories
