@@ -65,6 +65,7 @@ Include websites like LOST did, but to have things that happen on the real inter
 
 - Mixer Lead: Livestream Announcement Dopamine Hook
 - Mixer: Livestream Premiere
+- Mixer: in-character storyworld livestream
 
 - Physical art installation: tribe signs (street visual takeover according the the main core drive: visually hack the world)
 
