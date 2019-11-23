@@ -21,13 +21,13 @@ First transmedia narrative from the storyworld/universe of Hitech Crime made by 
 ## CONTENT CLOUD
 one song + surround material
 
-- YouTube: MOTHNODE_ Tribe | Cinematic Music Video (Target: YouTube, Mixer Livestream Premiere, IGTV, Instagram 9pos
-- YouTube: 'TRIBE' Cinematic Narrative Short Film set in the Hitech Crime Universe [NFS_25]
-- 
-- x
+- YouTube: HC_SG152_Tribe / MOTHNODE_ Tribe | Cinematic Music Video 
+- YouTube: HC_NSF25_Tribe / 'TRIBE' Cinematic Narrative Short Film set in the Hitech Crime Universe
+- YouTube: Teaser 01
+- YouTube: Teaser 02
 
  Futura tribe. Street Futura Aggrotrap
-
+(Target: YouTube, Mixer Livestream Premiere, IGTV, Instagram 9pos
 ### Music Video
 
 ## Notes
