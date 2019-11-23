@@ -147,7 +147,7 @@ My tribe uses doubt and fear to conquer all
 
 **MAIN NODE** (unlock node by sharing with humans) - main piece of content that the whole story is derived from (single album release, cinematic narrative short film)
 
-**SIDE NODES/MICRONODES** - different perspectives on the same story
+**SIDE NODES/MICRONODES** - different perspectives on the same story, filling in the missing fragments until the release of mystery - dopamine arcs
 
 **CONTENT CLOUD** - associated types of content related to the release - see more examples below.
 
