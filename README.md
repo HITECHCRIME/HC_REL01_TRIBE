@@ -65,7 +65,7 @@ Include websites like LOST did, but to have things that happen on the real inter
 
 - Mixer Lead: Livestream Announcement Dopamine Hook
 - Mixer: Livestream Premiere
-- Mixer: in-character storyworld livestream
+- Mixer: in-character storyworld livestream "Emergency Message Uplink Established_" - a message to the audience, asking for help
 
 - Physical art installation: tribe signs (street visual takeover according the the main core drive: visually hack the world)
 
