@@ -2,7 +2,7 @@
 
 # HITECH CRIME UNIVERSE - "TRIBE" / SINGLE AV RELEASE
 
-**Enter the Universe now:** https://www.hitechcri.me/timeline/hc_sg_r01_tribe
+**Enter the Universe now:** https://www.hitechcri.me/timeline/hc_sg_r01_tribe (link not active)
 
 HC_SG_R01_TRIBE acts as a "pilot episode".
 
