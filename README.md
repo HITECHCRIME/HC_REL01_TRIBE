@@ -19,6 +19,8 @@ This is going to be one song single + surrounding material.
 
 **Release Type:** Single / **Single Song Repo:** https://github.com/HITECHCRIME/HC_SG152_Tribe
 
+**Hitech Crime Universe Overview:**
+
 **Production:**  / **Lyrics:** MOTHNODE
 
 **Narrative Design:** Tim Moth
@@ -170,7 +172,7 @@ Entry points for the storyworld and the release. Sorted by release time.
 
 **Main Audiovisual Release**
 
-- FREE ENTRY POINT: YouTube: HC_NSF25_Tribe / 'TRIBE' Cinematic Narrative Short Film set in the Hitech Crime Universe (the main narrative)
+- FREE ENTRY POINT: YouTube: HC_NSF25_Tribe / 'TRIBE' Cinematic Narrative Short Film set in the Hitech Crime Universe (the main narrative) [CNSF 25]
 - FREE ENTRY POINT: YouTube: HC_SG152_Tribe / MOTHNODE_ Tribe | Cinematic Music Video / think about making it a VR/360 recorded video to be experienced in multiple ways.
 Utilizes the scenes from the narrative short film but from a different perspective - we move among the slow-motion scenes with MOTHNODE culminating at the point where the street generator blows up and the girl dies. It acts as a final commentary on the events in the short story.
 - FREE ENTRY POINT: YouTube: ?
