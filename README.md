@@ -169,8 +169,10 @@ Leading Up Content (Dopamine Hook)
 Audiovisual Release
 
 - YouTube: HC_SG152_Tribe / MOTHNODE_ Tribe | Cinematic Music Video 
+Utilizes the scenes from the narrative short film but from a different perspective - we move among the slow-motion scenes with MOTHNODE culminating at the point where the street generator blows up and the girl dies. It acts as a final commentary on the events in the short story.
+
 - YouTube: HC_NSF25_Tribe / 'TRIBE' Cinematic Narrative Short Film set in the Hitech Crime Universe
-- YouTube:
+- YouTube: ?
 
 Include websites like LOST did, but to have things that happen on the real internet affect what happens in the narrative universe - posts and events pop up in the narrative. A fictional project that interacts with the real audience in the story. One way medium no more. Things audience does online affects the storylines.
 
