@@ -38,6 +38,10 @@ Audiovisual Release
 
 Include websites like LOST did, but to have things that happen on the real internet affect what happens in the narrative universe - posts and events pop up in the narrative. A fictional project that interacts with the real audience in the story. One way medium no more. Things audience does online affects the storylines.
 
+- Fake Ad from the storyworld "Claim what's yours"
+- Fake Ad from the storyworld "x"
+- Fake Ad from the storyworld "x"
+
 - Fake Website from the story:
 - Fake Website:
 - Physical Single Release (For Order + Limited Introductory Price Offer)
