@@ -153,7 +153,7 @@ My tribe uses doubt and fear to conquer all
 
 - include a ping in the song that encourages listener to dive into the universe
 
-## CONTENT CLOUD
+## CONTENT CLOUD [STORYWORLD ENTRY POINTS: 64]
 
 **TIMELINE** - this particular arc of releases related to this storyline
 
