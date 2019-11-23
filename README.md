@@ -6,7 +6,7 @@
 
 ## PROJECT DATA
 
-First transmedia narrative chapter from the storyworld of Hitech Crime made by Helve AVR high technology agency. This marks the prototyping phase being actualized. Let the audiovisual experiments begin. This one relates close to my heart as it deals with the overarching theme that has been present in my life - the notion of belonging to a tribe. Study on the feeling of loss, loyalty, discovery, selfrealization and mastery.
+'Tribe' is a first transmedia narrative chapter from the storyworld of Hitech Crime made by Helve AVR high technology agency. This marks the prototyping phase being actualized. Let the audiovisual experiments begin. This one relates close to my heart as it deals with the overarching theme that has been present in my life - the notion of belonging to a tribe. Study on the feeling of loss, loyalty, discovery, selfrealization and mastery.
 
 This is going to be one song single + surrounding material.
 
@@ -21,7 +21,7 @@ This is going to be one song single + surrounding material.
 **Writing:** Tim Moth
 
 ## CONTENT CLOUD
-Sorted by release time.
+Sorted by release time. There are MAIN NODES/ALBUM RELEASES - unlock node by sharing with humans, TIMELINES - arcs of releases, CONTENT CLOUD - associated types of content related to the release - see more examples below.
 
 - YouTube: MT_01 / Mystery Teaser 01 (twitter) part 1/2 -> go through socials to piece the message together
 - YouTube: MT_02 / Mystery Teaser 02 (fb) part 2/2 -> go through socials to piece the message together
