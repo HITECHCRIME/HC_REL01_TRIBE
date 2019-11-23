@@ -214,7 +214,7 @@ Release - actual commercial content for monetization
 - Physical art installation: tribe signs (street visual takeover according the the main core drive: visually hack the world)
 - Use texting platform as the most intimate platform of breaching the 4th wall. /// NETWORK ERROR_ (glitched text message from the Hitech Crime future)
 
-
+- Actual Physical Concert with hitech vibe (lasers, atmosphere, we transform the venue into a place from the short story) that has another set of clues for the audience to decypher.
 
 
 
