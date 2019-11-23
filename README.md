@@ -28,6 +28,8 @@ Leading Up Content (Dopamine Hook)
 - YouTube: MT_01 / Mystery Teaser 01 (twitter) part 1/2 -> go through socials to piece the message together
 - YouTube: MT_02 / Mystery Teaser 02 (fb) part 2/2 -> go through socials to piece the message together
 
+- "end of the material has ENTER THE UNIVERSE"
+
 Audiovisual Release
 
 - YouTube: HC_SG152_Tribe / MOTHNODE_ Tribe | Cinematic Music Video 
@@ -46,6 +48,7 @@ Include websites like LOST did, but to have things that happen on the real inter
 - Streaming Access: YouTube Music
 
 - Insta 9grid/9post dopamine hook
+
 1.
 2.
 3.
@@ -58,6 +61,8 @@ Include websites like LOST did, but to have things that happen on the real inter
 
 - Mixer Lead: Livestream Announcement Dopamine Hook
 - Mixer: Livestream Premiere
+
+- Physical art installation: tribe signs (street visual takeover according the the main core drive: visually hack the world)
 
 - short story series (example Star Trek: Short Trek variations - tiny snippets from the universe 14 min)
 - behind the scenes/making of (Helve Logs via Helve AVR Creative Ops)
@@ -74,7 +79,7 @@ Include websites like LOST did, but to have things that happen on the real inter
 - real world guerilla reality hacking (also livestreamed)
 - real world guerilla effect, experience the exposition -> universe content, photos, videos, character shots
 - Agent Experience Logs_ outlet for fans who take part in the universe
-- art installation
+
 - Alexa Narrative Experience (voice narrative, old radio shows)
 - TikTok -> clues for puzzles for the audience (cryptic account)
 
