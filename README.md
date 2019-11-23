@@ -25,7 +25,7 @@ This is going to be one song single + surrounding material.
 
 **Writing:** Tim Moth
 
-## CONTENT CLOUD
+## MAIN NARRATIVE
 
 **Main Narrative**
 Story based on lyrics of the single release.
@@ -141,7 +141,15 @@ For blood, sacrifice darkness to the rap gods
 My tribe uses doubt and fear to conquer all 
 ```
 
-Sorted by release time. There are MAIN NODES/ALBUM RELEASES - unlock node by sharing with humans, TIMELINES - arcs of releases, CONTENT CLOUD - associated types of content related to the release - see more examples below.
+## CONTENT CLOUD
+
+TIMELINE - this particular arc of releases related to this storyline
+
+MAIN NODE (unlock node by sharing with humans) - main piece of content that the whole story is derived from (single album release, cinematic narrative short film)
+
+CONTENT CLOUD - associated types of content related to the release - see more examples below.
+
+Sorted by release time.
 
 Leading Up Content (Dopamine Hook)
 
