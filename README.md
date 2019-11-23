@@ -19,7 +19,7 @@ This is going to be one song single + surrounding material.
 
 **Release Type:** Single / **Single Song Repo:** https://github.com/HITECHCRIME/HC_SG152_Tribe
 
-**Hitech Crime Universe Overview:**
+**Hitech Crime Universe Overview:** https://github.com/HITECHCRIME/HC_OVERVIEW
 
 **Production:**  / **Lyrics:** MOTHNODE
 
