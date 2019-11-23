@@ -54,7 +54,7 @@ for blood
 ```
 sacrifice darkness to the rap gods
 ```
-- x
+- downfall of morals and loyalty, need to express anger and resentment, learning to cope, lashing out
 
 ```
 my tribe uses doubt and fear
