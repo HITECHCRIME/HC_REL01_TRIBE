@@ -11,7 +11,7 @@ HC_SG_R01_TRIBE IS A "PILOT EPISODE" OF HITECH CRIME CINEMATIC UNIVERSE
 'Tribe' is a first transmedia narrative chapter from the storyworld of Hitech Crime made by Helve AVR high technology agency. This marks the prototyping phase being actualized. Let the audiovisual experiments begin. This one relates close to my heart as it deals with the main overarching theme that has been present in my life - the notion of belonging to a tribe. Study on the feeling of loss, loyalty, discovery, selfrealization and mastery.
 
 This story is a paraphrase of what I went through life. I was undermining myself by trying to fit in anywhere it was possible.
-Loyalty changes, mind games, betrayals, deception, real life.
+Metaphor of loyalty changes, selfdestructive blind behaviour as i couldn't cope with what i was feeling, mind games, betrayals, deception, real life.
 
 This is going to be one song single + surrounding material.
 
