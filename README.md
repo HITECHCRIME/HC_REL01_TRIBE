@@ -51,7 +51,9 @@ for blood
 - death of a tribe member, girl protagonist the main character loved but didn't know she helped to conspire against him and the tribe to achieve benefits at cost of the others. she dies, he feels grief but discovers a clue that leads to discovery that she was having doubts about their plan this and was being coerced into doing this along with the male protagonist. this begins the arc of revenge. 
 
 Different perspective of the same story revealed through different platform (perspective of the girl):
+
 - it in fact was the protagonist who mainly wanted to steal the stash, she and him were controlled remotely with an implant through a hacked photon tattoos permalighted on skin (can be torn from flesh tho) and didn't know (blackouts), main character kills the girl he loved thinking he is trying to save the tribe but in fact is unknowingly the trigger for the whole thing.
+
 - Video short/animated as a part of the instagram release 9post: sensory scene - the dying girl, what she feels and hears in the audio comms as she is dying. Blue light from the street neons shines on her face. Vision distorts as she thinks "what did i do to deserve this?" (echoing voice in the video) not knowing it was her who instigated/helped with the incident "what's going on?" as she wakes up from a blackout and realizes that her life is in shreds.
 ```
 sacrifice darkness to the rap gods
