@@ -143,11 +143,13 @@ My tribe uses doubt and fear to conquer all
 
 ## CONTENT CLOUD
 
-TIMELINE - this particular arc of releases related to this storyline
+**TIMELINE** - this particular arc of releases related to this storyline
 
-MAIN NODE (unlock node by sharing with humans) - main piece of content that the whole story is derived from (single album release, cinematic narrative short film)
+**MAIN NODE** (unlock node by sharing with humans) - main piece of content that the whole story is derived from (single album release, cinematic narrative short film)
 
-CONTENT CLOUD - associated types of content related to the release - see more examples below.
+**SIDE NODES/MICRONODES** - different perspectives on the same story
+
+**CONTENT CLOUD** - associated types of content related to the release - see more examples below.
 
 Sorted by release time.
 
