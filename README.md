@@ -6,7 +6,7 @@
 
 ## PROJECT DATA
 
-First transmedia narrative from the storyworld/universe of Hitech Crime made by Helve AVR high technology agancy. This marks the prototyping phase being actualized. Let the audiovisual experiments begin. This one relates close to my heart as it deals with the immediate overarching topic that has been present in my life - the feeling of belonging to a tribe. The overwhelming feeling of loss and disappointment, selfmastery and realization.
+First transmedia narrative from the storyworld/universe of Hitech Crime made by Helve AVR high technology agency. This marks the prototyping phase being actualized. Let the audiovisual experiments begin. This one relates close to my heart as it deals with the immediate overarching topic that has been present in my life - the feeling of belonging to a tribe. The overwhelming feeling of loss and disappointment, selfmastery and realization.
 
 **Release Title:** Tribe / **Featuring:** MOTHNODE
 
