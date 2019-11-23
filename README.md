@@ -244,6 +244,13 @@ input the sketch here
 /// NETWORK ERROR_ (glitched text message from the Hitech Crime future)
 ```
 - PAID: Actual Physical Concert with hitech vibe (lasers, atmosphere, we transform the venue into a place from the short story) that has another set of clues for the audience to decypher.
+x
+x
+x
+x
+x
+x
+
 
 - short story series (example Star Trek: Short Trek variations - tiny snippets from the universe 14 min)
 - behind the scenes/making of (Helve Logs via Helve AVR Creative Ops)
