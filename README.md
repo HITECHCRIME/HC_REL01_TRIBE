@@ -187,7 +187,7 @@ Register various domains for fictional places and concepts.
 
 Release - actual commercial content for monetization
 
-- Physical Single Release (For Order + Limited Introductory Price Offer)
+- Physical Single Release includes all the elements of the narrative (For Order + Limited Introductory Price Offer + Physical Goodies from the storyworld)
 - Digital Single Release (+ Goodies)
 - Streaming Access: Spotify
 - Streaming Access: Soundcloud https://soundcloud.com/mothnode/tribe
@@ -212,6 +212,12 @@ Release - actual commercial content for monetization
 
 - Physical art installation: tribe signs (street visual takeover according the the main core drive: visually hack the world)
 - Use texting platform as the most intimate platform of breaching the 4th wall. /// NETWORK ERROR_ (glitched text message from the Hitech Crime future)
+
+
+
+
+
+
 - short story series (example Star Trek: Short Trek variations - tiny snippets from the universe 14 min)
 - behind the scenes/making of (Helve Logs via Helve AVR Creative Ops)
 - short web series narrative
