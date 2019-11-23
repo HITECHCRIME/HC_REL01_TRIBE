@@ -70,9 +70,13 @@ my tribe uses doubt and fear
 to conquer flaws
 ```
 - which in the end turns out to be beneficial to the initially unaware. mastery theme
+
+**FULL LYRICS TEXT**
 ```
-hitech crime (electronic voice, glitch, GLADOS style but with darkness)
-*whistling wind, some electronic noises of the street, like buzzing electricity from neons*
+hitech crime (electronic voice, glitch, 
+GLADOS style but with darkness)
+*whistling wind, some electronic noises of the street, 
+like buzzing electricity from neons*
 
 "learned a lesson, your turn"
 
@@ -132,7 +136,9 @@ blargh
 
 OUTRO
 
-*electric explosion - overloaded street generator with sparks hiting the pavement ;p not sure just yet, everything can be changed to fit a mutual vision*
+*electric explosion - overloaded street generator with sparks 
+hiting the pavement ;p not sure just yet, 
+everything can be changed to fit a mutual vision*
 
 ///
 
