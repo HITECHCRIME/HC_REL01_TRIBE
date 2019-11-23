@@ -191,6 +191,7 @@ Include websites like LOST did, but to have things that happen on the real inter
 - PAID: Digital Single Release (+ Goodies from the storyworld + Merch) via hitechcri.me website
 - FREE: Hitech Crime Universe Timeline https://www.hitechcri.me/timeline/hc_sg_r01_tribe (link not active)
 It’s important to have one platform where you control your music, content and brand image—your website. If a promoter or fan is searching for you online, the first hit they should get is your band website. This is your chance to hook them with a great first impression and win them over with an amazing user experience. Blow your own trumpet!
+- PAID: Merchandise with physical and virtual things from the storyworld/timeline. Simple things? Patches with Hitech Crime logo or the tribe's logo -//-? T-shirts. Cinematic Posters - refer to Kannibal Wear Overview repo. Kannibal Wear would be the one who supplies the merch for Hitech Crime.
 
 - FREE (monetized): Streaming Access: Spotify
 - FREE (monetized): Streaming Access: Soundcloud https://soundcloud.com/mothnode/tribe
@@ -201,7 +202,7 @@ It’s important to have one platform where you control your music, content and 
 - FREE (monetized): Streaming Access: Tidal
 - FREE (monetized): Streaming Access: Pandora Radio
 - FREE (monetized): Streaming Access: Slacker Radio
-- PAID/FREE (monetized/Digital Sale): Streaming Access: Bandcamp
+- PAID/FREE (monetized/Digital Version Sale): Streaming Access: Bandcamp
 - FREE: Vimeo
 - PAID/FREE: Google Play
 - FREE: Reddit Music
@@ -213,18 +214,21 @@ It’s important to have one platform where you control your music, content and 
 - FREE: Blogs as entry point (review or entry point designed with the blog to initiate people into the universe)
 (Pitchfork, Stereogum, DatPiff and The A.V. Club)
 - FREE: Music with Dozmia
+- FREE: Insta 9grid/9post dopamine hook (with a bigger image - remember about the first frame of videos to match the full image)
 
-- FREE: Insta 9grid/9post dopamine hook
-
-1.
-2.
-3.
-4.
-5. Video: Music Video Teaser
-6. Photo Carouselle:
-7.
+1. Visual Atmospheric Still Image
+2. Visual Atmospheric Still Image (Entry Point/Instructions)
+3. Visual Atmospheric Still Image
+4. Visual Atmospheric Snippet from the storyworld
+5. Video: Music Video Teaser + Caption
+6. Photo Carouselle: X + Caption
+7. 
 8.
 9. Video Carousele: Glitchy Cinemgraphs of the Characters
+
+- FREE: IGTV uploads to @hitechcrime
+- FREE: Instagram Stories
+- FREE: Facebook Stories
 
 - FREE (monetized via subs): Mixer Lead - Livestream Announcement Dopamine Hook (adds to mystery aspect)
 - FREE (monetized via subs): Mixer - Music Video Livestream Premiere
