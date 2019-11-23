@@ -254,6 +254,7 @@ input the sketch here
 - FREE ENTRY POINT: TikTok -> clues for puzzles for the audience (cryptic account)
 - FREE ENTRY POINT: YouTube/Website (fullscreen experience) - interactive (play your own adventure) short web series narrative
 - FREE ENTRY POINT: YouTube/Website - interactive (play your own adventure VR/360 experience) short web series narrative
+- FREE ENTRY POINT: audio podcast version (audio-drama set in this particular story)
 
 ## PROPOSED - FIGURE THIS SECTION OUT
 
@@ -261,7 +262,6 @@ input the sketch here
 - behind the scenes/making of (Helve Logs via Helve AVR Creative Ops)
 - short web series narrative
 - longform 'stick it together' version of the web series
-- audio podcast version (audio-drama)
 - interactive IRL storytelling exhibition (chapter)
 - livestream narrative
 - live event IRL (concert, semi-LARP)
