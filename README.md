@@ -163,15 +163,15 @@ Leading Up Content (Dopamine Hook)
 
 - YouTube: MT_01 / Mystery Teaser 01 (twitter) part 1/2 -> go through socials to piece the message together
 - YouTube: MT_02 / Mystery Teaser 02 (fb) part 2/2 -> go through socials to piece the message together
+- Text Message Platform Signup for the Narrative - user receives ominous texts with "dopamine hooks" trying to draw them into the universe by mixing real life and fiction.
 
 - "end of the material has ENTER THE UNIVERSE"
 
-Audiovisual Release
+Main Audiovisual Release
 
-- YouTube: HC_SG152_Tribe / MOTHNODE_ Tribe | Cinematic Music Video 
+- YouTube: HC_NSF25_Tribe / 'TRIBE' Cinematic Narrative Short Film set in the Hitech Crime Universe (the main narrative)
+- YouTube: HC_SG152_Tribe / MOTHNODE_ Tribe | Cinematic Music Video / think about making it a VR/360 recorded video to be experienced in multiple ways.
 Utilizes the scenes from the narrative short film but from a different perspective - we move among the slow-motion scenes with MOTHNODE culminating at the point where the street generator blows up and the girl dies. It acts as a final commentary on the events in the short story.
-
-- YouTube: HC_NSF25_Tribe / 'TRIBE' Cinematic Narrative Short Film set in the Hitech Crime Universe
 - YouTube: ?
 
 Include websites like LOST did, but to have things that happen on the real internet affect what happens in the narrative universe - posts and events pop up in the narrative. A fictional project that interacts with the real audience in the story. One way medium no more. Things audience does online affects the storylines.
