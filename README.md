@@ -23,18 +23,41 @@ This is going to be one song single + surrounding material.
 ## CONTENT CLOUD
 Sorted by release time. There are MAIN NODES/ALBUM RELEASES - unlock node by sharing with humans, TIMELINES - arcs of releases, CONTENT CLOUD - associated types of content related to the release - see more examples below.
 
+Leading Up Content (Dopamine Hook)
+
 - YouTube: MT_01 / Mystery Teaser 01 (twitter) part 1/2 -> go through socials to piece the message together
 - YouTube: MT_02 / Mystery Teaser 02 (fb) part 2/2 -> go through socials to piece the message together
+
+Audiovisual Release
+
 - YouTube: HC_SG152_Tribe / MOTHNODE_ Tribe | Cinematic Music Video 
 - YouTube: HC_NSF25_Tribe / 'TRIBE' Cinematic Narrative Short Film set in the Hitech Crime Universe
 - YouTube:
 
+Include websites like LOST did, but to have things that happen on the real internet affect what happens in the narrative universe - posts and events pop up in the narrative. A fictional project that interacts with the real audience in the story. One way medium no more. Things audience does online affects the storylines.
+
+- Fake Website from the story:
+- Fake Website:
 - Physical Single Release (For Order + Limited Introductory Price Offer)
 - Digital Single Release (+ Goodies)
 - Streaming Access: Spotify
 - Streaming Access: Soundcloud
 - Streaming Access: Apple Music
 - Streaming Access: YouTube Music
+
+- Insta 9grid/9post dopamine hook
+1.
+2.
+3.
+4.
+5. Video: Music Video Teaser
+6. Photo Carouselle:
+7.
+8.
+9. Video Carousele: Glitchy Cinemgraphs of the Characters
+
+- Mixer Lead: Livestream Announcement Dopamine Hook
+- Mixer: Livestream Premiere
 
 - short story series (example Star Trek: Short Trek variations - tiny snippets from the universe 14 min)
 - behind the scenes/making of (Helve Logs via Helve AVR Creative Ops)
@@ -46,7 +69,6 @@ Sorted by release time. There are MAIN NODES/ALBUM RELEASES - unlock node by sha
 - live event IRL (concert, semi-LARP)
 - livestreams IRL Helve Logs
 - FB dopamine hook
-- Insta 9grid/9post dopamine hook
 - virtual scenes (photogrammetric snapshot)
 - game/VR render/experience
 - real world guerilla reality hacking (also livestreamed)
@@ -56,8 +78,12 @@ Sorted by release time. There are MAIN NODES/ALBUM RELEASES - unlock node by sha
 - Alexa Narrative Experience (voice narrative, old radio shows)
 - TikTok -> clues for puzzles for the audience (cryptic account)
 
-- mystery teaser 02 
-- Include websites like LOST did, but to have things that happen on the real internet affect what happens in the narrative universe - posts and events pop up in the narrative. A fictional project that interacts with the real audience in the story. One way medium no more. Things audience does online affects the storylines.
+- PRINT MATERIALS Books & magazines Flyers Posters Postcards Stickers Comic books
+- DIGITAL CONTENT eBooks Website content Fan fiction Podcasts Video Video games
+- DIRECT COMMUNICATIONS Text messages Chat or instant messages Email
+- SOCIAL MEDIA Twitter Facebook Instagram Tumblr YouTube Fan sites and forums
+- EXPERIENTIAL MEDIA Theater Concerts Exhibitions Live Installations Theme Parks Toys
+
 
  Futura tribe. Street Futura Aggrotrap
 (Target: YouTube, Mixer Livestream Premiere, IGTV, Instagram 9pos
