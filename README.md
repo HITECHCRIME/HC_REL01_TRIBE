@@ -6,7 +6,7 @@ HC_SG_R01_TRIBE IS A "PILOT EPISODE" OF HITECH CRIME CINEMATIC UNIVERSE
 
 **Enter the Universe now:** https://www.hitechcri.me/timeline/hc_sg_r01_tribe (link not active)
 
-## PROJECT DATA
+## RELEASE PROJECT DATA
 
 'Tribe' is a first transmedia narrative chapter from the storyworld of Hitech Crime made by Helve AVR high technology agency. This marks the prototyping phase being actualized. Let the audiovisual experiments begin. This one relates close to my heart as it deals with the overarching theme that has been present in my life - the notion of belonging to a tribe. Study on the feeling of loss, loyalty, discovery, selfrealization and mastery.
 
