@@ -19,10 +19,14 @@ First transmedia narrative from the storyworld/universe of Hitech Crime made by 
 **Writing:** Tim Moth
 
 ## CONTENT CLOUD
+one song + surround material
 
+- YouTube: MOTHNODE_ Tribe | Cinematic Music Video (Target: YouTube, Mixer Livestream Premiere, IGTV, Instagram 9pos
+- YouTube: 'TRIBE' Cinematic Narrative Short Film set in the Hitech Crime Universe [NFS_25]
+- 
 - x
-- x
-- x
+
+ Futura tribe. Street Futura Aggrotrap
 
 ### Music Video
 
