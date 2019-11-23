@@ -32,26 +32,38 @@ Story based on lyrics of the single release.
 For blood, sacrifice darkness to the rap gods
 My tribe uses doubt and fear to conquer flaws"
 ```
-
-"With gold"
+```
+With gold
+```
 - a job that gave the tribe a money stash, initial success theme, overwhelming feeling of power
 
-"come knots tied on tight"
+```
+come knots tied on tight
+```
 - having wealth always backfires / consumptionism / capitalism, feeling of loss
 
-"klout calls"
-- it makes people and their friends change usually for the worse if you don't know how to apply the power of wealth, loyalty theme
+```
+klout calls
+```
+- it makes people and their friends change usually for the worse if you don't know how to apply the power of wealth, people start making problems, loyalty theme
+```
+for blood
+```
+- own blood turns against blood of the tribe, people start making problems blinded with the prospect of benefits, betrayal, disappointment, mystery, violent delights, loyalty theme
 
-"for blood"
-- own blood turns against blood of the tribe, betrayal, disappointment, mystery, violent delights, loyalty theme
-
-"sacrifice darkness to the rap gods"
+```
+sacrifice darkness to the rap gods
+```
 - x
 
-"my tribe uses doubt and fear"
+```
+my tribe uses doubt and fear
+```
 - forced selfdiscovery
 
-"to conquer flaws"
+```
+to conquer flaws
+```
 - which in the end turns out to be beneficial to the initially unaware. mastery theme
 
 ```
