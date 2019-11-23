@@ -27,6 +27,12 @@ This is going to be one song single + surrounding material.
 **Main Narrative**
 Story based on lyrics of the single release.
 
+```
+"With gold come knots tied on tight klout calls
+For blood, sacrifice darkness to the rap gods
+My tribe uses doubt and fear to conquer flaws"
+```
+
 "With gold"
 - a job that gave the tribe a money stash, initial success theme, overwhelming feeling of power
 
