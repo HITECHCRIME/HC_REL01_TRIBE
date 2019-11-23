@@ -209,6 +209,7 @@ Release - actual commercial content for monetization
 - Mixer Lead: Livestream Announcement Dopamine Hook
 - Mixer: Livestream Premiere
 - Mixer: in-character storyworld livestream "Emergency Message Uplink Established_" - a message to the audience, asking for help
+- Mixer: Livestream in-character concert from an undisclosed location (or secret location which has to be discovered by the audience)
 
 - Physical art installation: tribe signs (street visual takeover according the the main core drive: visually hack the world)
 - Use texting platform as the most intimate platform of breaching the 4th wall. /// NETWORK ERROR_ (glitched text message from the Hitech Crime future)
