@@ -57,7 +57,7 @@ Different perspective of the same story revealed through different platform (per
 
 - it in fact was the protagonist who mainly wanted to steal the stash, she and him were controlled remotely with an implant through a hacked Tribe's sign in form of a Photon Tattoo permalighted on skin (can be torn from flesh tho -> # -//-) and didn't know (blackouts), main character kills the girl he loved thinking he is trying to save the tribe, unknowingly being the trigger for the whole thing that started it all.
 
-- Video short/animated as a part of the instagram release 9post: sensory scene - the dying girl, what she feels and hears in the audio comms as she is dying. Blue light from the street neons shines on her face. Vision distorts as she thinks "what did i do to deserve this?" (echoing voice in the video) not knowing it was her who instigated/helped with the incident "what's going on?" as she wakes up from a blackout and realizes that her life is in shreds.
+- Video short/animated as a part of the instagram release 9post: sensory scene - the dying girl, what she feels and hears in the audio comms as she is dying. Blue light from the street neons shines on her face. Vision distorts as she thinks "what did i do to deserve this?" (echoing voice in the video) not knowing it was her who instigated/helped with the incident "what's going on?" as she wakes up from a blackout and realizes that her life is in shreds. culmination - electric explosion - overloaded street generator with a rain of sparks hiting the pavement
 ```
 sacrifice darkness to the rap gods
 ```
