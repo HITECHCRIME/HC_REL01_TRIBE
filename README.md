@@ -163,58 +163,60 @@ Entry points for the storyworld and the release. Sorted by release time.
 
 **Leading Up Content (Dopamine Hook)**
 
-- YouTube: MT_01 / Mystery Teaser 01 (twitter) part 1/2 -> go through socials to piece the message together
-- YouTube: MT_02 / Mystery Teaser 02 (fb) part 2/2 -> go through socials to piece the message together
-- Text Message Platform Signup for the Narrative - user receives ominous texts with "dopamine hooks" trying to draw them into the universe by mixing real life and fiction.
-
+- FREE ENTRY POINT: YouTube: MT_01 / Mystery Teaser 01 (twitter) part 1/2 -> go through socials to piece the message together
+- FREE ENTRY POINT: YouTube: MT_02 / Mystery Teaser 02 (fb) part 2/2 -> go through socials to piece the message together
+- FREE ENTRY POINT: Text Message Platform Signup for the Narrative - user receives ominous texts with "dopamine hooks" trying to draw them into the universe by mixing real life and fiction. Use texting platform as the most intimate platform of breaching the 4th wall. 
 - "end of the material has ENTER THE UNIVERSE"
 
 **Main Audiovisual Release**
 
-- FREE: YouTube: HC_NSF25_Tribe / 'TRIBE' Cinematic Narrative Short Film set in the Hitech Crime Universe (the main narrative)
-- FREE: YouTube: HC_SG152_Tribe / MOTHNODE_ Tribe | Cinematic Music Video / think about making it a VR/360 recorded video to be experienced in multiple ways.
+- FREE ENTRY POINT: YouTube: HC_NSF25_Tribe / 'TRIBE' Cinematic Narrative Short Film set in the Hitech Crime Universe (the main narrative)
+- FREE ENTRY POINT: YouTube: HC_SG152_Tribe / MOTHNODE_ Tribe | Cinematic Music Video / think about making it a VR/360 recorded video to be experienced in multiple ways.
 Utilizes the scenes from the narrative short film but from a different perspective - we move among the slow-motion scenes with MOTHNODE culminating at the point where the street generator blows up and the girl dies. It acts as a final commentary on the events in the short story.
-- FREE: YouTube: ?
+- FREE ENTRY POINT: YouTube: ?
 
 Include websites like LOST did, but to have things that happen on the real internet affect what happens in the narrative universe - posts and events pop up in the narrative. A fictional project that interacts with the real audience in the story. One way medium no more. Things audience does online affects the storylines. Register various domains for fictional places and concepts.
 
-- FREE: Fake Ad from the storyworld "Claim what's yours"
-- FREE: Fake Ad from the storyworld "Photon Tattoo Parlour"
-- FREE: Fake Ad from the storyworld "Future is here"
-- FREE: Fake Website from the story: tribe's headquarters website with all sorts of info about the memebers and locations, plan details, expanding the depth of the setting
-- FREE/PAID: Fake Website: photon tattoo parlour cyberspace access where you can get temporary tattoos with the tribe sign
+- FREE ENTRY POINT: Fake Ad from the storyworld "Claim what's yours"
+- FREE ENTRY POINT: Fake Ad from the storyworld "Photon Tattoo Parlour"
+- FREE ENTRY POINT: Fake Ad from the storyworld "Future is here"
+- FREE ENTRY POINT: Fake Website from the story: tribe's headquarters website with all sorts of info about the memebers and locations, plan details, expanding the depth of the setting
+- FREE/PAID ENTRY POINT: Fake Website: photon tattoo parlour cyberspace access where you can get temporary tattoos with the tribe sign
+- FREE ENTRY POINT: Newsletter in-character of the storyworld
+- FREE ENTRY POINT: Newsletter with physical releases and real world announcements not to break the immersion.
 
 **Release - actual commercial content for monetization/sale**
 
-- PAID: Subscription to the whole universe (free access to everything) via hitechcri.me website
-- PAID: Physical Single Release includes all the elements of the narrative (For Order + Limited Introductory Price Offer +  Goodies from the storyworld + Merch) via hitechcri.me website
-- PAID: Digital Single Release (+ Goodies from the storyworld + Merch) via hitechcri.me website
-- FREE: Hitech Crime Universe Timeline https://www.hitechcri.me/timeline/hc_sg_r01_tribe (link not active)
+- PAID ENTRY POINT: Subscription to the whole universe (free access to everything) via hitechcri.me website
+- PAID ENTRY POINT: Physical Single Release includes all the elements of the narrative (For Order + Limited Introductory Price Offer +  Goodies from the storyworld + Merch) via hitechcri.me website
+- PAID ENTRY POINT: Digital Single Release (+ Goodies from the storyworld + Merch) via hitechcri.me website
+- FREE ENTRY POINT: Hitech Crime Universe Timeline https://www.hitechcri.me/timeline/hc_sg_r01_tribe (link not active)
 It’s important to have one platform where you control your music, content and brand image—your website. If a promoter or fan is searching for you online, the first hit they should get is your band website. This is your chance to hook them with a great first impression and win them over with an amazing user experience. Blow your own trumpet!
-- PAID: Merchandise with physical and virtual things from the storyworld/timeline. Simple things? Patches with Hitech Crime logo or the tribe's logo -//-? T-shirts. Cinematic Posters - refer to Kannibal Wear Overview repo. Kannibal Wear would be the one who supplies the merch for Hitech Crime.
+- PAID ENTRY POINT: Merchandise with physical and virtual things from the storyworld/timeline. Simple things? Patches with Hitech Crime logo or the tribe's logo -//-? T-shirts. Cinematic Posters - refer to Kannibal Wear Overview repo. Kannibal Wear would be the one who supplies the merch for Hitech Crime.
 
-- FREE (monetized): Streaming Access: Spotify
-- FREE (monetized): Streaming Access: Soundcloud https://soundcloud.com/mothnode/tribe
-- FREE (monetized): Streaming Access: Apple Music/iTunes
-- FREE (monetized): Streaming Access: YouTube Music
-- FREE (monetized): Streaming Access: Amazon Music
-- FREE (monetized): Streaming Access: Audiomack
-- FREE (monetized): Streaming Access: Tidal
-- FREE (monetized): Streaming Access: Pandora Radio
-- FREE (monetized): Streaming Access: Slacker Radio
-- PAID/FREE (monetized/Digital Version Sale): Streaming Access: Bandcamp
-- FREE: Vimeo
-- PAID/FREE: Google Play
-- FREE: Reddit Music
-- FREE: Music-related hashtags on @TwitterMusic
-- FREE: Music-related hashtags on Instagram (not via main channel perhaps? so it doesn't clash with the 9post storyworld release)
-- FREE: Spike on Last.fm
-- FREE: Songkick (for live events)
-- FREE: Bandsintown (for live events)
-- FREE: Blogs as entry point (review or entry point designed with the blog to initiate people into the universe)
+- FREE ENTRY POINT(monetized): Streaming Access: Spotify
+- FREE ENTRY POINT (monetized): Streaming Access: Soundcloud https://soundcloud.com/mothnode/tribe
+- FREE ENTRY POINT (monetized): Streaming Access: Apple Music/iTunes
+- FREE ENTRY POINT (monetized): Streaming Access: YouTube Music
+- FREE ENTRY POINT (monetized): Streaming Access: Amazon Music
+- FREE ENTRY POINT (monetized): Streaming Access: Audiomack
+- FREE ENTRY POINT (monetized): Streaming Access: Tidal
+- FREE ENTRY POINT (monetized): Streaming Access: Pandora Radio
+- FREE ENTRY POINT (monetized): Streaming Access: Slacker Radio
+- PAID/FREE ENTRY POINT (monetized/Digital Version Sale): Streaming Access: Bandcamp
+- FREE ENTRY POINT: Vimeo
+- PAID/FREE ENTRY POINT: Google Play
+- FREE ENTRY POINT: Reddit Music
+- FREE ENTRY POINT: Music-related hashtags on @TwitterMusic
+- FREE ENTRY POINT: Music-related hashtags on Instagram (not via main channel perhaps? so it doesn't clash with the 9post storyworld release)
+- FREE ENTRY POINT: Spike on Last.fm
+- FREE ENTRY POINT: Songkick (for live events)
+- FREE ENTRY POINT: Bandsintown (for live events)
+- FREE ENTRY POINT: Blogs as entry point (review or entry point designed with the blog to initiate people into the universe)
 (Pitchfork, Stereogum, DatPiff and The A.V. Club)
-- FREE: Music with Dozmia
-- FREE: Insta 9grid/9post dopamine hook (with a bigger image - remember about the first frame of videos to match the full image)
+- FREE ENTRY POINT: Music with Dozmia
+- FREE ENTRY POINT: RepostExchange (Soundcloud-related Discovery Platform)
+- FREE ENTRY POINT: Insta 9grid/9post dopamine hook (with a bigger image - remember about the first frame of videos to match the full image)
 
 1. Visual Atmospheric Still Image
 2. Visual Atmospheric Still Image (Entry Point/Instructions)
@@ -228,21 +230,21 @@ input the sketch here
 9. Video Carousele: Glitchy Cinemgraphs of the Characters
 (alternatively mix Video and Photo carousels to make a reveal of characters)
 
-- FREE: IGTV uploads to @hitechcrime
-- FREE: Instagram Stories (Instructions with a screenshot of the Instagram profile, watch the trailer for the cinematic narrative short film)
-- FREE: Facebook Stories
+- FREE ENTRY POINT: IGTV uploads to @hitechcrime
+- FREE ENTRY POINT: Instagram Stories (Instructions with a screenshot of the Instagram profile, watch the trailer for the cinematic narrative short film)
+- FREE ENTRY POINT: Facebook Stories
 
-- FREE (monetized via subs): Mixer Lead - Livestream Announcement Dopamine Hook (adds to mystery aspect)
-- FREE (monetized via subs): Mixer - Music Video Livestream Premiere
-- FREE (monetized via subs): Mixer - in-character storyworld livestream "Emergency Message Uplink Established_" - a message to the audience, asking for help
-- FREE/PAID (monetized via subs + event tickets unless it would be a free reward for actually solving the puzzle): Mixer - Livestream in-character concert from an undisclosed location (or secret location which has to be discovered by the audience)
+- FREE ENTRY POINT (monetized via subs): Mixer Lead - Livestream Announcement Dopamine Hook (adds to mystery aspect)
+- FREE ENTRY POINT (monetized via subs): Mixer - Music Video Livestream Premiere
+- FREE ENTRY POINT (monetized via subs): Mixer - in-character storyworld livestream "Emergency Message Uplink Established_" - a message to the audience, asking for help
+- FREE/PAID ENTRY POINT (monetized via subs + event tickets unless it would be a free reward for actually solving the puzzle): Mixer - Livestream in-character concert from an undisclosed location (or secret location which has to be discovered by the audience)
 
-- FREE/PAID (tickets or earn your presence via fake cryptocurrency audience can gather through other activities related to the release): Physical art installation: tribe signs (street visual takeover according the the main core drive: visually hack the world)
-- FREE: Use texting platform as the most intimate platform of breaching the 4th wall. 
+- FREE/PAID ENTRY POINT (tickets or earn your presence via fake cryptocurrency audience can gather through other activities related to the release): Physical art installation: tribe signs (street visual takeover according the the main core drive: visually hack the world)
+- FREE ENTRY POINT: Use texting platform as the most intimate platform of breaching the 4th wall. 
 ```
 /// NETWORK ERROR_ (glitched text message from the Hitech Crime future)
 ```
-- PAID: Actual Physical Concert with hitech vibe (lasers, atmosphere, we transform the venue into a place from the short story) that has another set of clues for the audience to decypher.
+- PAID ENTRY POINT: Actual Physical Concert with hitech vibe (lasers, atmosphere, we transform the venue into a place from the short story) that has another set of clues for the audience to decypher.
 x
 x
 x
