@@ -8,6 +8,8 @@
 
 First transmedia narrative from the storyworld/universe of Hitech Crime made by Helve AVR high technology agency. This marks the prototyping phase being actualized. Let the audiovisual experiments begin. This one relates close to my heart as it deals with the immediate overarching topic that has been present in my life - the feeling of belonging to a tribe. The overwhelming feeling of loss and disappointment, selfmastery and realization.
 
+This is going to be one song single + surrounding material.
+
 **Release Title:** Tribe / **Featuring:** MOTHNODE
 
 **Release Type:** Single
@@ -19,14 +21,21 @@ First transmedia narrative from the storyworld/universe of Hitech Crime made by 
 **Writing:** Tim Moth
 
 ## CONTENT CLOUD
-one song + surround material
+Sorted by release time.
 
+- YouTube: MT_01 / Mystery Teaser 01 (twitter) part 1/2 -> go through socials to piece the message together
+- YouTube: MT_02 / Mystery Teaser 02 (fb) part 2/2 -> go through socials to piece the message together
 - YouTube: HC_SG152_Tribe / MOTHNODE_ Tribe | Cinematic Music Video 
 - YouTube: HC_NSF25_Tribe / 'TRIBE' Cinematic Narrative Short Film set in the Hitech Crime Universe
-- YouTube: Teaser 01
-- YouTube: Teaser 02
+- YouTube:
 
-- Single Release (audiovisual/physical/digital)
+- Physical Single Release (For Order + Limited Introductory Price Offer)
+- Digital Single Release (+ Goodies)
+- Streaming Access: Spotify
+- Streaming Access: Soundcloud
+- Streaming Access: Apple Music
+- Streaming Access: YouTube Music
+
 - short story series (example Star Trek: Short Trek variations - tiny snippets from the universe 14 min)
 - behind the scenes/making of (Helve Logs via Helve AVR Creative Ops)
 - short web series narrative
@@ -46,8 +55,8 @@ one song + surround material
 - art installation
 - Alexa Narrative Experience (voice narrative, old radio shows)
 - TikTok -> clues for puzzles for the audience (cryptic account)
-- mystery teaser 01 (twitter) part 1/2 -> go through socials to piece the message together
-- mystery teaser 02 (fb) part 2/2 -> go through socials to piece the message together
+
+- mystery teaser 02 
 - Include websites like LOST did, but to have things that happen on the real internet affect what happens in the narrative universe - posts and events pop up in the narrative. A fictional project that interacts with the real audience in the story. One way medium no more. Things audience does online affects the storylines.
 
  Futura tribe. Street Futura Aggrotrap
