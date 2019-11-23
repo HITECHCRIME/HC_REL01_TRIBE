@@ -28,7 +28,7 @@ This is going to be one song single + surrounding material.
 ## MAIN NARRATIVE
 
 **Main Narrative**
-Story based on lyrics of the single release.
+Story based on lyrics of the single album release.
 
 ```
 "With gold come knots tied on tight klout calls
