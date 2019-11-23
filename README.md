@@ -26,6 +26,19 @@ one song + surround material
 - YouTube: Teaser 01
 - YouTube: Teaser 02
 
+- Single Release (audiovisual/physical/digital)
+- short story series (example Star Trek: Short Trek variations - tiny snippets from the universe 14 min)
+- behind the scenes/making of (Helve Logs via Helve AVR Creative Ops)
+- short web series narrative
+- longform 'stick it together' version of the web series
+- audio podcast version (audio-drama)
+- interactive IRL storytelling exhibition (chapter)
+- livestream narrative
+- live event IRL (concert, semi-LARP)
+- livestreams IRL Helve Logs
+- FB dopamine hook
+- Insta 9grid/9post dopamine hook
+
  Futura tribe. Street Futura Aggrotrap
 (Target: YouTube, Mixer Livestream Premiere, IGTV, Instagram 9pos
 ### Music Video
