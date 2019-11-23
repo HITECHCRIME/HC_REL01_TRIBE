@@ -174,27 +174,24 @@ Main Audiovisual Release
 Utilizes the scenes from the narrative short film but from a different perspective - we move among the slow-motion scenes with MOTHNODE culminating at the point where the street generator blows up and the girl dies. It acts as a final commentary on the events in the short story.
 - YouTube: ?
 
-Include websites like LOST did, but to have things that happen on the real internet affect what happens in the narrative universe - posts and events pop up in the narrative. A fictional project that interacts with the real audience in the story. One way medium no more. Things audience does online affects the storylines.
+Include websites like LOST did, but to have things that happen on the real internet affect what happens in the narrative universe - posts and events pop up in the narrative. A fictional project that interacts with the real audience in the story. One way medium no more. Things audience does online affects the storylines. Register various domains for fictional places and concepts.
 
 - Fake Ad from the storyworld "Claim what's yours"
 - Fake Ad from the storyworld "Photon Tattoo Parlour"
 - Fake Ad from the storyworld "Future is here"
-
-Register various domains for fictional places and concepts.
-
 - Fake Website from the story: tribe's headquarters website with all sorts of info about the memebers and locations, plan details, expanding the depth of the setting
 - Fake Website: photon tattoo parlour cyberspace access
 
-Release - actual commercial content for monetization
+**Release - actual commercial content for monetization/sale**
 
-- Physical Single Release includes all the elements of the narrative (For Order + Limited Introductory Price Offer + Physical Goodies from the storyworld)
-- Digital Single Release (+ Goodies)
-- Streaming Access: Spotify
-- Streaming Access: Soundcloud https://soundcloud.com/mothnode/tribe
-- Streaming Access: Apple Music
-- Streaming Access: YouTube Music
-
-- Insta 9grid/9post dopamine hook
+- PAID: Physical Single Release includes all the elements of the narrative (For Order + Limited Introductory Price Offer +  Goodies from the storyworld + Merch)
+- PAID: Digital Single Release (+ Goodies from the storyworld + Merch) via hitechcri.me website
+- FREE: Hitech Crime Universe Timeline https://www.hitechcri.me/timeline/hc_sg_r01_tribe (link not active)
+- FREE (monetized): Streaming Access: Spotify
+- FREE (monetized): Streaming Access: Soundcloud https://soundcloud.com/mothnode/tribe
+- FREE (monetized): Streaming Access: Apple Music
+- FREE (monetized): Streaming Access: YouTube Music
+- FREE: Insta 9grid/9post dopamine hook
 
 1.
 2.
@@ -206,18 +203,17 @@ Release - actual commercial content for monetization
 8.
 9. Video Carousele: Glitchy Cinemgraphs of the Characters
 
-- Mixer Lead: Livestream Announcement Dopamine Hook
-- Mixer: Livestream Premiere
-- Mixer: in-character storyworld livestream "Emergency Message Uplink Established_" - a message to the audience, asking for help
-- Mixer: Livestream in-character concert from an undisclosed location (or secret location which has to be discovered by the audience)
+- FREE (monetized via subs): Mixer Lead - Livestream Announcement Dopamine Hook (adds to mystery aspect)
+- FREE (monetized via subs): Mixer - Music Video Livestream Premiere
+- FREE (monetized via subs): Mixer - in-character storyworld livestream "Emergency Message Uplink Established_" - a message to the audience, asking for help
+- FREE/PAID (monetized via subs + event tickets unless it would be a free reward for actually solving the puzzle): Mixer - Livestream in-character concert from an undisclosed location (or secret location which has to be discovered by the audience)
 
-- Physical art installation: tribe signs (street visual takeover according the the main core drive: visually hack the world)
-- Use texting platform as the most intimate platform of breaching the 4th wall. /// NETWORK ERROR_ (glitched text message from the Hitech Crime future)
-
-- Actual Physical Concert with hitech vibe (lasers, atmosphere, we transform the venue into a place from the short story) that has another set of clues for the audience to decypher.
-
-
-
+- FREE/PAID (tickets or earn your presence via fake cryptocurrency audience can gather through other activities related to the release): Physical art installation: tribe signs (street visual takeover according the the main core drive: visually hack the world)
+- FREE: Use texting platform as the most intimate platform of breaching the 4th wall. 
+```
+/// NETWORK ERROR_ (glitched text message from the Hitech Crime future)
+```
+- PAID: Actual Physical Concert with hitech vibe (lasers, atmosphere, we transform the venue into a place from the short story) that has another set of clues for the audience to decypher.
 
 - short story series (example Star Trek: Short Trek variations - tiny snippets from the universe 14 min)
 - behind the scenes/making of (Helve Logs via Helve AVR Creative Ops)
