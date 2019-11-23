@@ -254,13 +254,8 @@ input the sketch here
 - FREE ENTRY POINT: TikTok -> clues for puzzles for the audience (cryptic account)
 - FREE ENTRY POINT: YouTube/Website (fullscreen experience) - interactive (play your own adventure) short web series narrative
 - FREE ENTRY POINT: YouTube/Website - interactive (play your own adventure VR/360 experience) short web series narrative
-x
-x
-x
-x
-x
-x
 
+## PROPOSED - FIGURE THIS SECTION OUT
 
 - short story series (example Star Trek: Short Trek variations - tiny snippets from the universe 14 min)
 - behind the scenes/making of (Helve Logs via Helve AVR Creative Ops)
