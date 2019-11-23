@@ -38,6 +38,17 @@ one song + surround material
 - livestreams IRL Helve Logs
 - FB dopamine hook
 - Insta 9grid/9post dopamine hook
+- virtual scenes (photogrammetric snapshot)
+- game/VR render/experience
+- real world guerilla reality hacking (also livestreamed)
+- real world guerilla effect, experience the exposition -> universe content, photos, videos, character shots
+- Agent Experience Logs_ outlet for fans who take part in the universe
+- art installation
+- Alexa Narrative Experience (voice narrative, old radio shows)
+- TikTok -> clues for puzzles for the audience (cryptic account)
+- mystery teaser 01 (twitter) part 1/2 -> go through socials to piece the message together
+- mystery teaser 02 (fb) part 2/2 -> go through socials to piece the message together
+- Include websites like LOST did, but to have things that happen on the real internet affect what happens in the narrative universe - posts and events pop up in the narrative. A fictional project that interacts with the real audience in the story. One way medium no more. Things audience does online affects the storylines.
 
  Futura tribe. Street Futura Aggrotrap
 (Target: YouTube, Mixer Livestream Premiere, IGTV, Instagram 9pos
