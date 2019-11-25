@@ -15,7 +15,7 @@ HC_SG_R01_TRIBE IS A "PILOT EPISODE" OF HITECH CRIME CINEMATIC UNIVERSE
 This story is a paraphrase of what I went through life. I was undermining myself by trying to fit in anywhere it was possible.
 Metaphor of loyalty changes, selfdestructive blind behaviour as i couldn't cope with what i was feeling, mind games, betrayals, deception, real life.
 
-This is going to be one song single + surrounding material.
+This is going to be one song single + surrounding material release.
 
 **Release Title:** Tribe / **Featuring:** MOTHNODE
 
