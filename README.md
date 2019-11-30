@@ -30,6 +30,8 @@ This is going to be one song single + surrounding material release.
 
 **Writing:** Tim Moth
 
+Cinematic Narrative Music Release (CNMR)
+
 ## MAIN NARRATIVE
 
 **Main Narrative**
